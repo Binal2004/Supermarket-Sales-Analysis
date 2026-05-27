@@ -1,5 +1,5 @@
 # 🛒 Retail Domain — Supermarket Sales Analysis
-### Data Analysis Portfolio | Project 1
+### Data Analysis Portfolio 
 **Author:** Binal Doshi 
 
 ---
