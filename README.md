@@ -1,6 +1,6 @@
 # 🛒 Retail Domain — Supermarket Sales Analysis
 ### Data Analysis Portfolio | Project 1
-**Author:** Binal Doshi | MSc AI & Data Science, University of Mumbai (2025–2027)
+**Author:** Binal Doshi 
 
 ---
 
