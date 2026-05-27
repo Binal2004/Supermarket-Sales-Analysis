@@ -1,0 +1,30 @@
+# Supermarket Sales Analysis — Python Dependencies
+# Binal Doshi | MSc AI & Data Science | University of Mumbai (2025–2027)
+# Project 1: Retail Domain
+
+# ── Core Data Processing ───────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Visualization ──────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── Report Generation ─────────────────────────────────────────────────────────
+reportlab>=4.0.0
+
+# ── Notebook Support ──────────────────────────────────────────────────────────
+jupyter>=1.0.0
+nbformat>=5.7.0
+ipykernel>=6.0.0
+
+# ── Statistical Analysis ──────────────────────────────────────────────────────
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Install all:
+#   pip install -r requirements.txt
